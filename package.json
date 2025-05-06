@@ -1,0 +1,16 @@
+{
+  "name": "pageinfo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thite",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2",
+    "prompt-sync": "^4.2.0",
+    "puppeteer": "^24.8.0"
+  }
+}
